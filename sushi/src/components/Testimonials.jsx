@@ -2,25 +2,25 @@ import Header from "./Header";
 
 const testimonials = [
   {
-    name: "Mariana Costa",
+    name: "Virginia Fonseca",
     comment:
       "Uma das melhores experiências gastronômicas que já tive. O atendimento e a qualidade dos pratos são impecáveis.",
     photo:
-      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500"
+      "https://f.i.uol.com.br/fotografia/2024/03/21/171104982765fc8c639bc28_1711049827_3x4_md.jpg"
   },
   {
-    name: "Rafael Mendes",
+    name: "Vini Junior",
     comment:
       "Ambiente sofisticado, ingredientes frescos e uma apresentação incrível. Voltarei muitas vezes.",
     photo:
-      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500"
+      "https://f.i.uol.com.br/fotografia/2024/07/16/17211514276696afc36aa09_1721151427_3x4_lg.jpg"
   },
   {
-    name: "Fernanda Oliveira",
+    name: "Luiza Sonza",
     comment:
       "O combinado premium superou todas as expectativas. Um restaurante que realmente entrega excelência.",
     photo:
-      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500"
+      "https://s2-gshow.glbimg.com/4FCAIA-CKeDC9mWif7AwA-c3MFI=/13x0:1427x1920/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2025/u/o/KyzVVGQTiC8IoRsZZJ0w/farm003-543092971-18084765191505391-1002530590802384574-n.jpg"
   }
 ];
 

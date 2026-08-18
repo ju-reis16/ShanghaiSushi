@@ -88,7 +88,7 @@ export default function Hero() {
           "
         >
           <img
-            src="https://images.unsplash.com/photo-1700367059983-ee8a28689971?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="https://plus.unsplash.com/premium_photo-1668146927669-f2edf6e86f6f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="Combinado de sushi"
             className="w-full h-full object-cover"
           />
