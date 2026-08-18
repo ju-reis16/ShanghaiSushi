@@ -18,7 +18,7 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Links rápidos */}
+          {/* Links */}
           <div>
             <h4 className="text-lg font-semibold text-white mb-4">
               Navegação
@@ -51,8 +51,8 @@ export default function Footer() {
 
             <div className="text-slate-400 space-y-3 mb-6">
               <p>Rua Sakura, 128 – São Paulo, SP</p>
-              <p>(11) 99999-9999</p>
-              <p>contato@shanghaisushi.com</p>
+              <p>(11) 98472-3156</p>
+              <p>shangaisushi@gmail.com</p>
             </div>
 
             <div className="flex gap-4">

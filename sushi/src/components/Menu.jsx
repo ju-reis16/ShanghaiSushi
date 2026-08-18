@@ -2,44 +2,44 @@ import Header from "./Header";
 
 const menuItems = [
   {
-    name: "Combinado Premium",
-    img: "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=600",
-    desc: "24 peças especiais com salmão, atum e camarão."
-  },
-  {
-    name: "Sashimi Selection",
-    img: "https://images.unsplash.com/photo-1553621042-f6e147245754?w=600",
-    desc: "Cortes nobres preparados com máxima precisão."
-  },
-  {
-    name: "Uramaki Especial",
-    img: "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56?w=600",
-    desc: "Recheios exclusivos e ingredientes frescos."
-  },
-  {
-    name: "Hot Roll Crocante",
-    img: "https://images.unsplash.com/photo-1607301405390-d831c242f59b?w=600",
-    desc: "Empanado na medida certa com toque especial da casa."
-  },
-  {
-    name: "Nigiri Premium",
-    img: "https://images.unsplash.com/photo-1562158070-57ad65f6adad?w=600",
-    desc: "Peças artesanais preparadas individualmente."
-  },
-  {
-    name: "Temaki Salmão",
-    img: "https://images.unsplash.com/photo-1582450871972-ab5ca7a04786?w=600",
-    desc: "Salmão fresco, cream cheese e cebolinha."
-  },
-  {
-    name: "Yakisoba Especial",
+    name: "Rodizio Tradicional",
     img: "https://images.unsplash.com/photo-1611143669185-af224c5e3252?w=600",
-    desc: "Massa oriental com legumes e proteínas selecionadas."
+    desc: "Estão inclusos: temakis, ceviches, sashimis, guiozas e carpaccios."
   },
   {
-    name: "Sobremesa Japonesa",
-    img: "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?w=600",
-    desc: "Mochis e doces tradicionais para finalizar a experiência."
+    name: "Rodizio de Temakis",
+    img: "https://static.itdg.com.br/images/auto-auto/d0117a8c14a1ac5f7748b46bca84f00f/temaki-varios.jpg",
+    desc: "Temakis variados para você saborear, com ingredientes frescos e combinações irresistíveis."
+  },
+  {
+    name: "A Lá Carte",
+    img: "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56?w=600",
+    desc: "Escolha seus pratos favoritos e monte sua experiência do seu jeito."
+  },
+  {
+    name: "Especial do Chef",
+    img: "https://kiyotasushi.com.br/wp-content/uploads/2020/08/a-la-carte-1024x683.png ",
+    desc: "Criação especial do nosso chef, preparada com ingredientes selecionados e um toque único."
+  },
+  {
+    name: "Combinados",
+    img: "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=900",
+    desc: "Combinações de sushi e sashimi cuidadosamente selecionadas para uma experiência completa."
+  },
+  {
+    name: "Bebidas Tradicionais",
+    img: "https://images.unsplash.com/photo-1697479815895-23ea2934711a?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    desc: "Refrigerantes, chás, sucos e cafés."
+  },
+  {
+    name: "Drinks Especiais",
+    img: "https://images.unsplash.com/photo-1746785011440-aff1c8e0e559?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    desc: "Combinações especiais de sabores preparadas para tornar seu momento ainda mais marcante e saboroso."
+  },
+  {
+    name: "Sobremesa",
+    img: "https://images.unsplash.com/photo-1636405188643-5efa604fb14d?q=80&w=786&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    desc: "Delícias doces para finalizar sua experiência gastronômica."
   }
 ];
 
@@ -94,7 +94,7 @@ export default function Menu() {
                     transition duration-300
                   "
                 >
-                  Conhecer prato
+                  Conhecer Sobre
                 </button>
               </div>
             </div>

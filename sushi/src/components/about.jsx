@@ -18,7 +18,7 @@ export default function About() {
             "
           >
             <img
-              src="https://images.unsplash.com/photo-1553621042-f6e147245754?w=900"
+              src="https://images.unsplash.com/photo-1700367059983-ee8a28689971?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Chef preparando sushi"
               className="w-full h-full object-cover"
             />
@@ -27,14 +27,16 @@ export default function About() {
           {/* Texto */}
           <div>
             <h3 className="text-3xl font-bold text-white mb-6">
-              Tradição, elegância e sabor em cada detalhe
+              Uma experiência gastronômica
+              <span className="text-[#D4AF37]"> inesquecível</span>
             </h3>
 
             <p className="text-slate-300 leading-relaxed mb-5">
-              O ShanghaiSushi nasceu da paixão pela culinária japonesa e pelo
-              compromisso com a excelência. Cada prato é preparado com
-              ingredientes frescos, técnicas tradicionais e uma apresentação
-              cuidadosamente elaborada.
+              O Shangai Sushi nasceu em 2018, a partir do sonho de uma família
+apaixonada pela culinária japonesa e pela arte de receber bem. A ideia surgiu do
+desejo de criar um restaurante que não oferecesse apenas bons pratos, mas também
+um ambiente onde as pessoas pudessem se reunir, comemorar e criar momentos
+especiais.
             </p>
 
             <p className="text-slate-300 leading-relaxed mb-8">
@@ -54,7 +56,8 @@ export default function About() {
               >
                 <h4 className="text-[#D4AF37] font-semibold mb-2">Missão</h4>
                 <p className="text-slate-300 text-sm">
-                  Oferecer uma experiência autêntica da culinária japonesa.
+                Nossa missão é proporcionar uma experiência gastronômica completa,
+unindo qualidade, sabor e um atendimento acolhedor.
                 </p>
               </div>
 
@@ -68,7 +71,9 @@ export default function About() {
               >
                 <h4 className="text-[#D4AF37] font-semibold mb-2">Visão</h4>
                 <p className="text-slate-300 text-sm">
-                  Ser referência em gastronomia japonesa premium.
+                  Nossos valores estão presentes em cada detalhe do restaurante. Acreditamos
+na importância da qualidade, do respeito, da dedicação e da
+responsabilidade em tudo o que fazemos.
                 </p>
               </div>
             </div>

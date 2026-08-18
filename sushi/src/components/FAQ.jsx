@@ -8,14 +8,14 @@ const questions = [
       "Recomendamos fazer reserva, principalmente nos finais de semana e datas comemorativas, para garantir sua mesa."
   },
   {
-    question: "Os ingredientes são frescos?",
+    question: "Aniversariante paga?",
     answer:
-      "Sim. Trabalhamos diariamente com ingredientes frescos e selecionados para manter o padrão de qualidade do ShanghaiSushi."
+      "Sim! O aniversariante tem direito a uma cortesia especial. Consulte nossa equipe para mais detalhes sobre as condições e benefícios disponíveis na data da comemoração."
   },
   {
-    question: "O restaurante possui opções vegetarianas?",
+    question: "Vocês possuem opções para quem não come peixe cru?",
     answer:
-      "Sim, contamos com uma seleção de sushis, uramakis e pratos quentes preparados especialmente para clientes vegetarianos."
+      "Sim, oferecemos uma variedade de pratos que não contêm peixe cru, incluindo opções vegetarianas e de outros ingredientes."
   },
   {
     question: "Vocês realizam eventos e comemorações?",
@@ -23,14 +23,14 @@ const questions = [
       "Sim. O ShanghaiSushi oferece opções para aniversários, encontros corporativos e pequenas celebrações."
   },
   {
-    question: "Qual o horário de funcionamento?",
+    question: "O rodízio pode ser dividido entre duas pessoas?",
     answer:
-      "Funcionamos de terça a domingo, das 18h às 23h."
+      "Não, O rodízio é individual e cada pessoa deve solicitar sua própria opção de rodízio.."
   },
   {
-    question: "É possível personalizar um combinado?",
+    question: "Posso fazer alterações em algum prato?",
     answer:
-      "Sim. Nossa equipe pode montar combinados personalizados de acordo com suas preferências e restrições alimentares."
+      "Dependendo do prato, algumas alterações podem ser possíveis. Consulte nossa equipe no momento do pedido."
   }
 ];
 

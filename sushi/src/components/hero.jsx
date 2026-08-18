@@ -10,7 +10,7 @@ export default function Hero() {
         bg-[#0B0B0D]
       "
     >
-      {/* Efeitos de fundo */}
+     
       <div className="absolute -left-32 top-20 w-80 h-80 bg-[#7A1F1F]/25 rounded-full blur-[120px]" />
 
       <div className="absolute right-0 top-0 w-[500px] h-[500px] bg-[#D4AF37]/10 rounded-full blur-[140px]" />
@@ -18,7 +18,7 @@ export default function Hero() {
       <div className="absolute left-1/2 bottom-0 w-[400px] h-[300px] bg-[#7A1F1F]/15 rounded-full blur-[120px] -translate-x-1/2" />
 
       <div className="relative max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
-        {/* Texto */}
+       
         <div>
           <span
             className="
@@ -32,7 +32,7 @@ export default function Hero() {
               mb-6
             "
           >
-            ✦ Restaurante japonês premium
+            ✦ Único sushi em São Paulo com estrela Michelin 
           </span>
 
           <h2 className="text-5xl md:text-6xl font-bold leading-tight mb-6">
@@ -88,7 +88,7 @@ export default function Hero() {
           "
         >
           <img
-            src="https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=900"
+            src="https://images.unsplash.com/photo-1700367059983-ee8a28689971?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="Combinado de sushi"
             className="w-full h-full object-cover"
           />

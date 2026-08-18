@@ -14,13 +14,13 @@ export default function CTA() {
           "
         >
           <img
-            src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=1400"
+            src="https://images.unsplash.com/photo-1627462133149-167e7e9a91b7?q=80&w=2111&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             alt="Experiência gastronômica"
             className="
               absolute inset-0
               w-full h-full
               object-cover
-              opacity-25
+              opacity-50
             "
           />
 

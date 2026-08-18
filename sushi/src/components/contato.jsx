@@ -111,8 +111,8 @@ export default function Contato() {
 
               <div className="space-y-3 text-slate-300">
                 <p>📍 Rua Sakura, 128 – São Paulo, SP</p>
-                <p>📞 (11) 99999-9999</p>
-                <p>✉ contato@shanghaisushi.com</p>
+                <p>📞(11) 98472-3156</p>
+                <p>✉ shangaisushi@gmail.com</p>
                 <p>🕒 Terça a Domingo • 18h às 23h</p>
               </div>
             </div>
@@ -126,7 +126,7 @@ export default function Contato() {
               "
             >
               <img
-                src="https://images.unsplash.com/photo-1524661135-423995f22d0b?w=900"
+                src="https://images.unsplash.com/photo-1755142437156-3068da28e52c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Mapa fictício"
                 className="w-full h-80 object-cover"
               />
