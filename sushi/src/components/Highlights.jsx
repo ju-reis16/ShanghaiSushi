@@ -1,5 +1,5 @@
 import { FaFish, FaUtensils, FaLeaf } from "react-icons/fa";
-import Header from "./Header";
+import Header from "./header";
 
 export default function Highlights() {
   const items = [
